@@ -1,3 +1,19 @@
+Current weather app will include:
+- time
+- timezone
+- 7 day forcast
+- yesterday's weather
+- temperature in f
+- humidity
+- feels like temp
+- precipitation probability
+- precipitation
+- cloud cover
+- max and min temp
+- sun rise and set
+- uv index
+- wind speed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
